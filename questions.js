@@ -3,9 +3,9 @@ questions = [
         "question": "Oppression by corporations is more of a concern than oppression by governments.",
         "effect": {
             "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "dipl": 10,
+            "govt": 10,
+            "scty": 10
         }
     },
     {
